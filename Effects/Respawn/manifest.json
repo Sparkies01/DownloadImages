@@ -1,0 +1,649 @@
+{
+  "images": 92,
+  "data": [
+    {
+      "alias": "2021_gacha",
+      "name": "2021 Carnival",
+      "file": "2021 Carnival.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "01s"
+    },
+    {
+      "alias": "2022_515",
+      "name": "515! Fight!",
+      "file": "515! Fight!.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "41s"
+    },
+    {
+      "alias": "40mall",
+      "name": "Mall Event Respawn Effect",
+      "file": "Mall Event Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "64s"
+    },
+    {
+      "alias": "515_2021",
+      "name": "515 eParty",
+      "file": "515 eParty.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "04s"
+    },
+    {
+      "alias": "AS2026",
+      "name": "AS2026 Respawn Effect",
+      "file": "AS2026 Respawn Effect.png",
+      "atlas": "Atlas_Performance58_add.unity3d",
+      "sprite": "5s"
+    },
+    {
+      "alias": "AS_A",
+      "name": "AS A Respawn Effect",
+      "file": "AS A Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "218s"
+    },
+    {
+      "alias": "Aircraft",
+      "name": "Aircraft Respawn Effect",
+      "file": "Aircraft Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "227s"
+    },
+    {
+      "alias": "ECHO",
+      "name": "ECHO Respawn Effect",
+      "file": "ECHO Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "175s"
+    },
+    {
+      "alias": "Esmeralda_superhero",
+      "name": "Esmeralda superhero Respawn Effect",
+      "file": "Esmeralda superhero Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "33s"
+    },
+    {
+      "alias": "Gas",
+      "name": "Gas Respawn Effect",
+      "file": "Gas Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "177s"
+    },
+    {
+      "alias": "Leomord",
+      "name": "Leomord Respawn Effect",
+      "file": "Leomord Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "107s"
+    },
+    {
+      "alias": "M2",
+      "name": "M2 Glory Spawn Effect",
+      "file": "M2 Glory Spawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "68s"
+    },
+    {
+      "alias": "M3",
+      "name": "M3 Glorious Arrival",
+      "file": "M3 Glorious Arrival.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "21s"
+    },
+    {
+      "alias": "M4_budika",
+      "name": "M4 Glorious Arrival",
+      "file": "M4 Glorious Arrival.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "109s"
+    },
+    {
+      "alias": "M5",
+      "name": "M5 Glorious Arrival",
+      "file": "M5 Glorious Arrival.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "246s"
+    },
+    {
+      "alias": "M5_S",
+      "name": "M5 Champion Arrival",
+      "file": "M5 Champion Arrival.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "190s"
+    },
+    {
+      "alias": "M6FNOP",
+      "name": "M6 FNOP Champion Arrival",
+      "file": "M6 FNOP Champion Arrival.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "29s"
+    },
+    {
+      "alias": "M6txz",
+      "name": "M6 Glorious Arrival",
+      "file": "M6 Glorious Arrival.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "275s"
+    },
+    {
+      "alias": "M7",
+      "name": "M7 Glorious Arrival",
+      "file": "M7 Glorious Arrival.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "57s"
+    },
+    {
+      "alias": "MCLHIGH",
+      "name": "MCLHIGH Respawn Effect",
+      "file": "MCLHIGH Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "238s"
+    },
+    {
+      "alias": "MCLLOW",
+      "name": "MCLLOW Respawn Effect",
+      "file": "MCLLOW Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "235s"
+    },
+    {
+      "alias": "MLAL",
+      "name": "MLAL Respawn Effect",
+      "file": "MLAL Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "62s"
+    },
+    {
+      "alias": "ORO",
+      "name": "ORO Respawn Effect",
+      "file": "ORO Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "225s"
+    },
+    {
+      "alias": "PIXIV4",
+      "name": "PIXIV4 Respawn Effect",
+      "file": "PIXIV4 Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "23s"
+    },
+    {
+      "alias": "PROQ",
+      "name": "PROQ Respawn Effect",
+      "file": "PROQ Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "233s"
+    },
+    {
+      "alias": "ProI",
+      "name": "Pro I Respawn Effect",
+      "file": "Pro I Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "15s"
+    },
+    {
+      "alias": "ProS02",
+      "name": "Pro S02 Respawn Effect",
+      "file": "Pro S02 Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "2s"
+    },
+    {
+      "alias": "Pro_J",
+      "name": "Pro J Respawn Effect",
+      "file": "Pro J Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "146s"
+    },
+    {
+      "alias": "Pro_Z",
+      "name": "Pro Z Respawn Effect",
+      "file": "Pro Z Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "197s"
+    },
+    {
+      "alias": "QMS3",
+      "name": "QMS3 Respawn Effect",
+      "file": "QMS3 Respawn Effect.png",
+      "atlas": "Atlas_Performance58_add.unity3d",
+      "sprite": "3s"
+    },
+    {
+      "alias": "Ramadan2026",
+      "name": "Ramadan 2026 Arrival",
+      "file": "Ramadan 2026 Arrival.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "75s"
+    },
+    {
+      "alias": "SAM",
+      "name": "SAM Respawn Effect",
+      "file": "SAM Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "40s"
+    },
+    {
+      "alias": "SBGJ",
+      "name": "SBGJ Respawn Effect",
+      "file": "SBGJ Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "244s"
+    },
+    {
+      "alias": "SDS",
+      "name": "SDS Respawn Effect",
+      "file": "SDS Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "61s"
+    },
+    {
+      "alias": "SF",
+      "name": "SF Respawn Effect",
+      "file": "SF Respawn Effect.png",
+      "atlas": "Atlas_Performance58_add.unity3d",
+      "sprite": "12s"
+    },
+    {
+      "alias": "SPD",
+      "name": "SPD Respawn Effect",
+      "file": "SPD Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "294s"
+    },
+    {
+      "alias": "WOF",
+      "name": "WOF Respawn Effect",
+      "file": "WOF Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "214s"
+    },
+    {
+      "alias": "YKS",
+      "name": "YKS Respawn Effect",
+      "file": "YKS Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "257s"
+    },
+    {
+      "alias": "ZNQ2024",
+      "name": "Anniversary 2024 Arrival",
+      "file": "Anniversary 2024 Arrival.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "279s"
+    },
+    {
+      "alias": "ZNQ2025",
+      "name": "Anniversary 2025 Arrival",
+      "file": "Anniversary 2025 Arrival.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "35s"
+    },
+    {
+      "alias": "allstar",
+      "name": "All-Star Arrival",
+      "file": "All-Star Arrival.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "121s"
+    },
+    {
+      "alias": "angel",
+      "name": "Divine Wings",
+      "file": "Divine Wings.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "32s"
+    },
+    {
+      "alias": "blacklist",
+      "name": "Blacklist International Champion Arrival",
+      "file": "Blacklist International Champion Arrival.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "51s"
+    },
+    {
+      "alias": "bren",
+      "name": "Bren Esports Champion Arrival",
+      "file": "Bren Esports Champion Arrival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "75s"
+    },
+    {
+      "alias": "bxjg",
+      "name": "Combat Ready",
+      "file": "Combat Ready.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "79s"
+    },
+    {
+      "alias": "christmas",
+      "name": "Christmas",
+      "file": "Christmas.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "14s"
+    },
+    {
+      "alias": "chunjie",
+      "name": "Spring Festival",
+      "file": "Spring Festival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "16s"
+    },
+    {
+      "alias": "chunjie_2025",
+      "name": "Spring Festival 2025",
+      "file": "Spring Festival 2025.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "8s"
+    },
+    {
+      "alias": "chunjie_2026",
+      "name": "Spring Festival 2026",
+      "file": "Spring Festival 2026.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "65s"
+    },
+    {
+      "alias": "daR",
+      "name": "Darkest Arrival",
+      "file": "Darkest Arrival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "26s"
+    },
+    {
+      "alias": "daR_next",
+      "name": "da R next Respawn Effect",
+      "file": "da R next Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "111s"
+    },
+    {
+      "alias": "erciyuan",
+      "name": "Rebirth of Hope",
+      "file": "Rebirth of Hope.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "35s"
+    },
+    {
+      "alias": "erciyuan_2",
+      "name": "erciyuan 2 Respawn Effect",
+      "file": "erciyuan 2 Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "64s"
+    },
+    {
+      "alias": "erciyuan_3",
+      "name": "erciyuan 3 Respawn Effect",
+      "file": "erciyuan 3 Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "185s"
+    },
+    {
+      "alias": "evos",
+      "name": "M1 Champion Spawn Effect",
+      "file": "M1 Champion Spawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "50s"
+    },
+    {
+      "alias": "halloween",
+      "name": "Candy! Candy!",
+      "file": "Candy! Candy!.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "12s"
+    },
+    {
+      "alias": "helloKitty_01",
+      "name": "Arrival - Hello Kitty!",
+      "file": "Arrival - Hello Kitty!.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "39s"
+    },
+    {
+      "alias": "jingcaihy",
+      "name": "jingcaihy Respawn Effect",
+      "file": "jingcaihy Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "12s"
+    },
+    {
+      "alias": "kuanghuan",
+      "name": "kuanghuan Respawn Effect",
+      "file": "kuanghuan Respawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "44s"
+    },
+    {
+      "alias": "lansiluote",
+      "name": "The Arrival of the Sword",
+      "file": "The Arrival of the Sword.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "59s"
+    },
+    {
+      "alias": "lightdark",
+      "name": "Light & Dark",
+      "file": "Light & Dark.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "11s"
+    },
+    {
+      "alias": "linghunshi",
+      "name": "Heart of Anima",
+      "file": "Heart of Anima.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "89s"
+    },
+    {
+      "alias": "load_selena_villain",
+      "name": "load selena villain Respawn Effect",
+      "file": "load selena villain Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "27s"
+    },
+    {
+      "alias": "m1",
+      "name": "2019 M1 Glory",
+      "file": "2019 M1 Glory.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "35s"
+    },
+    {
+      "alias": "mcl",
+      "name": "MCL Tournament",
+      "file": "MCL Tournament.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "63s"
+    },
+    {
+      "alias": "msc",
+      "name": "MSC Tournament",
+      "file": "MSC Tournament.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "18s"
+    },
+    {
+      "alias": "nengliangshuijing",
+      "name": "nengliangshuijing Respawn Effect",
+      "file": "nengliangshuijing Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "22s"
+    },
+    {
+      "alias": "paopao",
+      "name": "paopao Respawn Effect",
+      "file": "paopao Respawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "87s"
+    },
+    {
+      "alias": "pro_s",
+      "name": "pro s Respawn Effect",
+      "file": "pro s Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "173s"
+    },
+    {
+      "alias": "proq02",
+      "name": "proq02 Respawn Effect",
+      "file": "proq02 Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "60s"
+    },
+    {
+      "alias": "qishilu",
+      "name": "Apocalypse Arrival",
+      "file": "Apocalypse Arrival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "04s"
+    },
+    {
+      "alias": "qumoshi_2",
+      "name": "qumoshi 2 Respawn Effect",
+      "file": "qumoshi 2 Respawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "131s"
+    },
+    {
+      "alias": "shangfen2025",
+      "name": "Ranked Season 2025 Arrival",
+      "file": "Ranked Season 2025 Arrival.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "4s"
+    },
+    {
+      "alias": "shangfen2026",
+      "name": "Ranked Season 2026 Arrival",
+      "file": "Ranked Season 2026 Arrival.png",
+      "atlas": "Atlas_Performance58_add.unity3d",
+      "sprite": "14s"
+    },
+    {
+      "alias": "shengdan",
+      "name": "shengdan Respawn Effect",
+      "file": "shengdan Respawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "57s"
+    },
+    {
+      "alias": "shijiebei",
+      "name": "World Cup Arrival",
+      "file": "World Cup Arrival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "96s"
+    },
+    {
+      "alias": "star",
+      "name": "Starlight",
+      "file": "Starlight.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "09s"
+    },
+    {
+      "alias": "starwar",
+      "name": "MLBB x Star Wars Spawn Effect",
+      "file": "MLBB x Star Wars Spawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "06s"
+    },
+    {
+      "alias": "summer",
+      "name": "Summer Gala",
+      "file": "Summer Gala.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "27s"
+    },
+    {
+      "alias": "super",
+      "name": "Super Descent",
+      "file": "Super Descent.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "46s"
+    },
+    {
+      "alias": "sushiqumo",
+      "name": "sushiqumo Respawn Effect",
+      "file": "sushiqumo Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "59s"
+    },
+    {
+      "alias": "warrior_Moskov",
+      "name": "Dragon Warrior Arrives",
+      "file": "Dragon Warrior Arrives.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "44s"
+    },
+    {
+      "alias": "warrior_villain",
+      "name": "Foreboding Arrival",
+      "file": "Foreboding Arrival.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "90s"
+    },
+    {
+      "alias": "weier_superhero",
+      "name": "Arrival of the Storm",
+      "file": "Arrival of the Storm.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "02s"
+    },
+    {
+      "alias": "xiariji",
+      "name": "Cool Summer",
+      "file": "Cool Summer.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "54s"
+    },
+    {
+      "alias": "xingguang_2",
+      "name": "Star Arrival",
+      "file": "Star Arrival.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "105s"
+    },
+    {
+      "alias": "xiongmao",
+      "name": "xiongmao Respawn Effect",
+      "file": "xiongmao Respawn Effect.png",
+      "atlas": "Atlas_Performance12_add.unity3d",
+      "sprite": "49s"
+    },
+    {
+      "alias": "zhaiyue2024",
+      "name": "zhaiyue2024 Respawn Effect",
+      "file": "zhaiyue2024 Respawn Effect.png",
+      "atlas": "Atlas_Performance40_add.unity3d",
+      "sprite": "284s"
+    },
+    {
+      "alias": "zhaiyue_2025",
+      "name": "zhaiyue 2025 Respawn Effect",
+      "file": "zhaiyue 2025 Respawn Effect.png",
+      "atlas": "Atlas_Performance50_add.unity3d",
+      "sprite": "72s"
+    },
+    {
+      "alias": "zhou_superhero",
+      "name": "zhou superhero Respawn Effect",
+      "file": "zhou superhero Respawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "70s"
+    },
+    {
+      "alias": "zhoushu",
+      "name": "Jujutsu Kaisen Spawn Effect",
+      "file": "Jujutsu Kaisen Spawn Effect.png",
+      "atlas": "Atlas_Performance15_add.unity3d",
+      "sprite": "119s"
+    },
+    {
+      "alias": "zuqiu",
+      "name": "Football Carnival Spawn Effect",
+      "file": "Football Carnival Spawn Effect.png",
+      "atlas": "Atlas_Performance14_add.unity3d",
+      "sprite": "02s"
+    }
+  ]
+}
